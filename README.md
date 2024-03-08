@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rahafkku@outlook.sa**.
 
-- ⚡ Fun fact **A github account like this is a drop in the bucket**.
+- ⚡ Fun fact **My repoes is like a drop in each bucket, I have projects from every field**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
