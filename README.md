@@ -1,7 +1,7 @@
 <h1 align="center">Welcome All ♡, I'm Rahaf Ali</h1>
 <h3 align="center">A passionate Data analyst & AI & Game developer !!</h3>
 
-<img align="center" alt="Computer" width="900" src="https://static.wikia.nocookie.net/animal-jam-clans-1/images/0/02/Originaleshg.gif/revision/latest/scale-to-width-down/640?cb=20180808164838">
+<img align="center" alt="Computer" width="900" src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif">
 
 - 🔭 I’m a Student at King Khalid University.
 
