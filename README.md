@@ -1,7 +1,7 @@
 <h1 align="center">Welcome All ♡, I'm Rahaf Ali</h1>
 <h3 align="center">A passionate Data analyst & AI & Game developer !!</h3>
 
-<img align="center" alt="Computer" width="900" src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif">
+<img align="center" alt="Computer" width="900" src="https://i.pinimg.com/originals/b5/81/93/b5819347b17f735f86b48c23e0cac447.gif">
 
 - 🔭 I’m a Student at King Khalid University.
 
